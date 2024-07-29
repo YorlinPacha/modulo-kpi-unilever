@@ -1,4 +1,5 @@
 📊 Sistema de Gestión de Indicadores KPI para Unilever 🚀
+
 Bienvenido al repositorio del proyecto interno de Unilever. Este sistema ha sido desarrollado para mejorar la eficiencia en la obtención y gestión de datos de los indicadores clave de rendimiento (KPI) de la empresa. Gracias a este sistema, se ha logrado una notable optimización del tiempo en la recopilación de datos que antes se realizaba manualmente. 🎯
 
 📋 Descripción del Proyecto
